@@ -1,0 +1,4 @@
+terra-sdk
+requests
+jinja2
+web3
